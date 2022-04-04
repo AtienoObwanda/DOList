@@ -38,4 +38,4 @@ www.www.www
 #### **License**
 ****
 MIT License
-Copyright (c) 2022 Swahili Foods
+Copyright (c) 2022 | [Atieno Obwanda](https://github.com/AtienoObwanda)
