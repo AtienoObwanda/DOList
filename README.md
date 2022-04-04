@@ -6,6 +6,7 @@ It is a simple to do list app perfect for practice!
 
 **Author**
 ****
+[Atieno Obwanda](https://github.com/AtienoObwanda) 
 
 **Development server**
 ****
@@ -27,5 +28,14 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 ****
 For any clarification or assistance, contact me through:
 
+[Atieno Obwanda](https://github.com/AtienoObwanda) *atienoobwanda@gmail.com* </br>
+
+
 **Demo Link**
 ****
+www.www.www
+
+#### **License**
+****
+MIT License
+Copyright (c) 2022 Swahili Foods
